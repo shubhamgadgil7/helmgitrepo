@@ -24,6 +24,16 @@ entries:
   mysecondchart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2023-12-17T20:22:10.640289468Z"
+    description: A Helm chart for Kubernetes
+    digest: 95cc671a4df6673c8fb227d73c361e3dd5ff0cb06c0bc1a733d9a8934d5248c9
+    name: mysecondchart
+    type: application
+    urls:
+    - https://github.com/shubhamgadgil7/helmgitrepo/releases/download/mysecondchart-0.5.0/mysecondchart-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2023-12-17T20:05:49.770554193Z"
     description: A Helm chart for Kubernetes
     digest: ef686bbe006791f4bfee2d3b059cf6816b880580e5321274b5d1f190425203e4
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://github.com/shubhamgadgil7/helmgitrepo/releases/download/mysecondchart-0.3.0/mysecondchart-0.3.0.tgz
     version: 0.3.0
-generated: "2023-12-17T20:05:49.770612311Z"
+generated: "2023-12-17T20:22:10.640305498Z"
